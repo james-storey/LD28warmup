@@ -1,0 +1,6 @@
+name: warmup
+description: A sample web application
+dependencies:
+  browser: any
+  three:
+    path: C:\Users\James\dart\three
